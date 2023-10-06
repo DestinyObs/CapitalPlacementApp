@@ -1,4 +1,4 @@
-# CapitalPlacementConsoleApp
+# CapitalPlacementApp
 
 This console application was developed for the .NET Developer role task at Capital Placement. It manages a program with features for Program, Application Template, Workflow, and Preview tabs.
 
